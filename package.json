@@ -1,0 +1,22 @@
+{
+  "name": "intl-news-desk-rss",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.1.6",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "rss-parser": "3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "25.1.0",
+    "@types/react": "19.2.10",
+    "typescript": "5.9.3"
+  }
+}
